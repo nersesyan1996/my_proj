@@ -29,7 +29,7 @@ function App() {
       </header>
 
       <main>
-        <nav className="inform"></nav>        
+        <nav className="inform"><p>asdasdadwasd</p></nav>        
        <Sections />
         <nav className="inform"></nav>
       </main>
